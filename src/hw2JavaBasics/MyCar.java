@@ -9,19 +9,17 @@ public class MyCar {
 	public char version = 'S';
 	public byte milesPerGallon = 50;
 	public long carMiles = 1029093998;
-	public boolean car4wd = true;
-	
-	
-	
+	public boolean car4wd = true;  
 	
 	
 	
 	
 
 	public static void main(String[] args) {
-		MyCar myCar = new MyCar();
+		MyCar myCar = new MyCar();    
 		
 		System.out.println("My name is Saleem, I love to drive, My car info is below:" );
+		System.out.println(myCar.carName);
 
 	}
 
