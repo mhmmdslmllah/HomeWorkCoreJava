@@ -24,4 +24,5 @@ public class DiabeticCondition {
 		sc.close();
 	} 
 	}
+	//New update
 }
