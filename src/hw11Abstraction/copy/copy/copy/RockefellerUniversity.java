@@ -8,14 +8,13 @@ public class RockefellerUniversity extends EngineeringSchool {
 
 	@Override
 	public void aeronauticalInfo() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("we teach how to fly.");
+				
 	}
 
 	@Override
 	public void compurtLab() {
-		// TODO Auto-generated method stub
-		
+				System.out.println("ComputerLab from rockerfeller University.");
 	}
 
 }

@@ -13,8 +13,8 @@ public interface College {
 
 	}
 
-	public static void studyRoom () {
+	public static void studyRoom() {
 		System.out.println("This id the studyRoom method from the College Interface.");
-		
+
 	}
 }
