@@ -6,6 +6,8 @@ public abstract class NursingSchool extends RockefellerUniversity implements Law
 
 	}
 
+	
+	
 	public abstract void caring();
 
 	public NursingSchool() {

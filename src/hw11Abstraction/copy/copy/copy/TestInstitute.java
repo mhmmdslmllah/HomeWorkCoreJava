@@ -49,7 +49,7 @@ public class TestInstitute {
 	//	University.pharmacy();
 		university.reception(); // I can a default method here by parent Interface reference variable.
 		
-		System.out.println("\n-------**Calling methods from MedicalSchool Absrat Class**---------\n");\
+		System.out.println("\n-------**Calling methods from MedicalSchool Absrat Class**---------\n");
 		
 		MedicalSchool medicalSchool = new ColumbiaUniversity();
 		//Tried to create an object of Abstract class but gives error of (cannot instantiate the type MedicalSchool).
