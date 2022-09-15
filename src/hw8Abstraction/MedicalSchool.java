@@ -6,11 +6,6 @@ public abstract class MedicalSchool {
 		System.out.println("You will find many skeletons inside the AnatomyLab.");
 
 	}
-
 	public abstract void bioChemistryLab();
-	
-	
-         	
 
 }
-
